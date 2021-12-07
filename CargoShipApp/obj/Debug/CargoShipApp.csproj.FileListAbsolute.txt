@@ -1,0 +1,10 @@
+F:\FinalDOC\CargoShipApp\CargoShipApp\bin\Debug\CargoShipApp.exe.config
+F:\FinalDOC\CargoShipApp\CargoShipApp\bin\Debug\CargoShipApp.exe
+F:\FinalDOC\CargoShipApp\CargoShipApp\bin\Debug\CargoShipApp.pdb
+F:\FinalDOC\CargoShipApp\CargoShipApp\obj\Debug\CargoShipApp.Properties.Resources.resources
+F:\FinalDOC\CargoShipApp\CargoShipApp\obj\Debug\CargoShipApp.csproj.GenerateResource.cache
+F:\FinalDOC\CargoShipApp\CargoShipApp\obj\Debug\CargoShipApp.csproj.CoreCompileInputs.cache
+F:\FinalDOC\CargoShipApp\CargoShipApp\obj\Debug\CargoShipApp.exe
+F:\FinalDOC\CargoShipApp\CargoShipApp\obj\Debug\CargoShipApp.pdb
+F:\FinalDOC\CargoShipApp\CargoShipApp\obj\Debug\CargoShipApp.Form1.resources
+F:\FinalDOC\CargoShipApp\CargoShipApp\obj\Debug\CargoShipApp.csprojAssemblyReference.cache
